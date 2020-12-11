@@ -12,7 +12,7 @@
     // Use the colors array.
 
     // Add event listener so when
-    // the DOM element is double-clicked,
+    // the DOM element is clicked,
     // it is removed from the document
 
     // Append your DOM element to the ".presents" div
